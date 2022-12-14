@@ -1,0 +1,7 @@
+.env
+.python-version
+frontend/fastapi-basic
+migrations
+alembic.ini
+*.db
+*.pyc
