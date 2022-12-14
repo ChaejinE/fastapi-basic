@@ -1,7 +1,9 @@
 .env
 .python-version
-frontend/fastapi-basic
+frontend/basic-front
 migrations
 alembic.ini
 *.db
 *.pyc
+node_modules
+*.json
